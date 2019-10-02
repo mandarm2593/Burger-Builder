@@ -1,4 +1,4 @@
-BURGER BUILDER 
+## BURGER BUILDER 
 
 
 Web app that allows users to interactively customize their order of a snack (Burger in this case) and place an order to a fictional restaurant.
